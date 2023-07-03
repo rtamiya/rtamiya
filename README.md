@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Ryo, full-stack developer based in Tokyo!
 
 <!--
 **rtamiya/rtamiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
